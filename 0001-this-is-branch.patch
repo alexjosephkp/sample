@@ -1,0 +1,23 @@
+From a264d58334377a39785992fc102b63596e47b8ed Mon Sep 17 00:00:00 2001
+From: alexjosephkpk <alexjosephkp@gmail.com>
+Date: Fri, 30 Aug 2019 17:17:41 +0530
+Subject: [PATCH] this is branch
+
+---
+ samplecode.c | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/samplecode.c b/samplecode.c
+index 05c25ed..a3fb523 100644
+--- a/samplecode.c
++++ b/samplecode.c
+@@ -2,5 +2,6 @@
+ void main()
+ {
+ 	printf("this is my program for git");
++	printf("this is an edit from branch");
+ 	return 0;
+ }
+-- 
+2.7.4
+
