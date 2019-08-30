@@ -1,0 +1,20 @@
+From a7134b6f8dea13bc19a4d2d44bd1e53d70ac8f3e Mon Sep 17 00:00:00 2001
+From: alexjosephkpk <alexjosephkp@gmail.com>
+Date: Thu, 29 Aug 2019 09:37:39 +0530
+Subject: [PATCH 5/6] ths is mythird file
+
+---
+ alex3.c | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 alex3.c
+
+diff --git a/alex3.c b/alex3.c
+new file mode 100644
+index 0000000..83d649a
+--- /dev/null
++++ b/alex3.c
+@@ -0,0 +1 @@
++ikjbkljbfa;
+-- 
+2.7.4
+
